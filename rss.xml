@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>이바우펫 애견미용학원 평택점</title>
+    <link>https://evawpet-pyeongtaek.kr/</link>
+    <description>평택 애견미용학원 이바우펫 평택점. 평택역 인근 쾌적한 강의실에서 100% 가정견 실습으로 애견미용사 자격증과 창업 준비까지.</description>
+    <language>ko</language>
+    <lastBuildDate>Tue, 20 Oct 2026 10:30:00 +0900</lastBuildDate>
+    <atom:link href="https://evawpet-pyeongtaek.kr/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>평택 애견미용학원 이바우펫 | 기간·수강료·커리큘럼 안내</title>
+      <link>https://evawpet-pyeongtaek.kr/</link>
+      <guid isPermaLink="true">https://evawpet-pyeongtaek.kr/</guid>
+      <description>평택역 인근 이바우펫 평택점. 농장견이 아닌 가정견으로만 실습해 강의실이 쾌적하고, 월~목 오전·오후·야간반과 토요일 11~15시 반 중 편한 시간에 수강할 수 있어요(금·일 휴무). 3급·2급 자격증은 보통 6~9개월.</description>
+      <pubDate>Tue, 20 Oct 2026 10:30:00 +0900</pubDate>
+    </item>
+  </channel>
+</rss>
